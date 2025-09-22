@@ -1,2 +1,4 @@
 *.pkl
+# Ignore Python cache__pycache__/*.py[cod]*.pyo# Ignore model files*.pkl*.joblib*.h5# Ignore virtual environmentvenv/.env/*.env# Ignore OS/system files.DS_StoreThumbs.db# Ignore logs*.log
+__pycache__/
 

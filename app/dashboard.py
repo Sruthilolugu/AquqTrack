@@ -16,7 +16,7 @@ st.set_page_config(page_title="AquaTrack", layout="wide")
 splash_placeholder = st.empty()
 with splash_placeholder.container():
     st.markdown("### AquaTrack\n**Monitor the Groundwater Levels**")
-    st.markdown("*“Water is life, preserve it for the future.”*")
+    st.markdown("*â€œWater is life, preserve it for the future.â€*")
     time.sleep(3)
 splash_placeholder.empty()
 
